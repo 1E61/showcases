@@ -1,0 +1,25 @@
+.warbutton {
+	width: 100px;
+	height: 26px;
+	border: 1px solid #3a3a3a;
+	background: #ff661e;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ff523e), to(#d70a00));
+	background: -webkit-linear-gradient(top, #d73e30, #d71507);
+	background: -moz-linear-gradient(top, #d75040, #d72004);
+	background: -ms-linear-gradient(top, #d7513d, #d71908);
+	background: -o-linear-gradient(top, #d74b30, #d72e14);
+	background-image: -ms-linear-gradient(top, #d74832 0%, #d72912 100%);
+	/*padding: 12px 24px;*/
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+	-moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+	box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+	text-shadow: #7ea4bd 0 1px 0;
+	color: #eff1f3;
+	font-size: 17px;
+	font-family: helvetica, serif;
+	text-decoration: none;
+	vertical-align: middle;
+}
